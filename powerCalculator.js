@@ -16,4 +16,4 @@ function powerCalculator(num, exponent) {
    
 }
 
-console.log(powerCalculator(5, 2))
+// console.log(powerCalculator(5, 2))

@@ -12,4 +12,4 @@ function splitString(string, separator) {
      }
 }
 
-console.log(splitString('02/20/2020', '/'))
+console.log(splitString('[02/20/2020]', '/'))
